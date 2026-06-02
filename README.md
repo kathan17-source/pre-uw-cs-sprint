@@ -18,3 +18,9 @@ LeetCode arrays and two pointers
 - Practiced basic terminal navigation and shell command
 - Learned the basic Git workflow: add, commit, and push
 
+## Day 2 - Completed
+
+- Completed 5 LeetCode array/string problems
+- Completed MIT MIssing Semester Lecture 2: Command Line Environment
+- Completed Github Branching exercise
+- Learned the Git workflow: edit files and check status
