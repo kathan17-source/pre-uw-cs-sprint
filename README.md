@@ -24,3 +24,9 @@ LeetCode arrays and two pointers
 - Completed MIT MIssing Semester Lecture 2: Command Line Environment
 - Completed Github Branching exercise
 - Learned the Git workflow: edit files and check status
+
+## Day 3 - Completed
+
+- Completed 5 LeetCode array/string problems
+- Completed Axioms of Probability and Combinatorial Analysis from "A first course in probability" by Sheldon Ross
+- Practiced basic Git rebase workflow
