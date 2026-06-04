@@ -30,3 +30,7 @@ LeetCode arrays and two pointers
 - Completed 5 LeetCode array/string problems
 - Completed Axioms of Probability and Combinatorial Analysis from "A first course in probability" by Sheldon Ross
 - Practiced basic Git rebase workflow
+
+## Day 4 - Completed
+- Completed 10 LeetCode array/string problems
+- Completed MIT MIssing Semester Lecture 3: Development Environment and Tools
