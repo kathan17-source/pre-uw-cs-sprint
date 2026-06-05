@@ -21,7 +21,7 @@ LeetCode arrays and two pointers
 ## Day 2 - Completed
 
 - Completed 5 LeetCode array/string problems
-- Completed MIT MIssing Semester Lecture 2: Command Line Environment
+- Completed MIT Missing Semester Lecture 2: Command Line Environment
 - Completed Github Branching exercise
 - Learned the Git workflow: edit files and check status
 
@@ -33,4 +33,8 @@ LeetCode arrays and two pointers
 
 ## Day 4 - Completed
 - Completed 10 LeetCode array/string problems
-- Completed MIT MIssing Semester Lecture 3: Development Environment and Tools
+- Completed MIT Missing Semester Lecture 3: Development Environment and Tools
+
+## Day 5 - Completed
+- Completed 5 LeetCode two pointers problems
+- Completed MIT Missing Semester Lecture 4: Debugging and Profiling
