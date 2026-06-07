@@ -38,3 +38,7 @@ LeetCode arrays and two pointers
 ## Day 5 - Completed
 - Completed 5 LeetCode two pointers problems
 - Completed MIT Missing Semester Lecture 4: Debugging and Profiling
+
+## Day 6 - Completed
+- Participated in LeetCode weekly contest(solved 2/4 problems)
+- Completed Conditional Probability and Independence from "A first course in probability" by Sheldon Ross
