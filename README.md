@@ -42,3 +42,12 @@ LeetCode arrays and two pointers
 ## Day 6 - Completed
 - Participated in LeetCode weekly contest(solved 2/4 problems)
 - Completed Conditional Probability and Independence from "A first course in probability" by Sheldon Ross
+
+## Day 7 - Completed
+- Completed 5 LeetCode sliding window problems
+- Learned how to create a React app using Vite
+- Learned how to build a textarea for user input
+- Learned how to create a summarize button
+- Learned how to display a summary panel
+- Learned how to create a flashcards panel
+- Practiced building a basic React frontend layout
