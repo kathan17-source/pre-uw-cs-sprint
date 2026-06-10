@@ -2,15 +2,6 @@
 CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before university.
 
 
-## Week 1
-
-Focus:
-Terminal
-Git and GitHub
-VS Code
-Python/C++ environment
-LeetCode arrays and two pointers
-
 ## Day 1 — Completed
 
 - Completed 10 LeetCode array/string problems
@@ -51,3 +42,12 @@ LeetCode arrays and two pointers
 - Learned how to display a summary panel
 - Learned how to create a flashcards panel
 - Practiced building a basic React frontend layout
+
+## Day 8 - Completed
+
+- Split the React frontend into reusable components.
+- Created `StudyInput`, `SummaryPanel`, `FlashcardList`, and `ChatBox`.
+- Kept main state in `App.jsx`.
+- Passed data and functions to child components using props.
+- Added fake chat UI for asking questions.
+- Frontend still uses fake summary and flashcard data for now.
