@@ -51,3 +51,18 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 - Passed data and functions to child components using props.
 - Added fake chat UI for asking questions.
 - Frontend still uses fake summary and flashcard data for now.
+
+## Day 9 - Completed
+
+-Completed 2 LeetCode sliding window problems
+- Created the FastAPI backend folder.
+- Added `backend/main.py`.
+- Set up a basic FastAPI app.
+- Added CORS middleware for local React frontend.
+- Created `GET /health` endpoint to check if backend is running.
+- Created `POST /summarize` endpoint.
+- Used a Pydantic model to receive notes text from the request body.
+- Tested backend using FastAPI `/docs`.
+- Confirmed `/summarize` returns status code `200`.
+- Backend now returns fake summary and flashcards as JSON.
+
