@@ -54,7 +54,7 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 
 ## Day 9 - Completed
 
--Completed 2 LeetCode sliding window problems
+- Completed 2 LeetCode sliding window problems
 - Created the FastAPI backend folder.
 - Added `backend/main.py`.
 - Set up a basic FastAPI app.
@@ -67,15 +67,15 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 - Backend now returns fake summary and flashcards as JSON.
 
 ## Day 10 - Completed
--Connected the React frontend with the FastAPI backend using a fetch POST request.
--Updated the summarize feature so notes are sent from the frontend to the backend.
--Displayed backend-generated summary and flashcards in the React UI.
--Added loading and error handling for backend requests.
--Created an upload UI using an UploadBox component.
--Used FormData to send selected files from React to FastAPI.
--Added a FastAPI /upload endpoint stub.
--Installed python-multipart for file upload support.
--Added backend requirements.txt for deployment preparation.
--Tested frontend and backend locally.
--Prepared the frontend for Vercel deployment and backend for Railway deployment.
+- Connected the React frontend with the FastAPI backend using a fetch POST request.
+- Updated the summarize feature so notes are sent from the frontend to the backend.
+- Displayed backend-generated summary and flashcards in the React UI.
+- Added loading and error handling for backend requests.
+- Created an upload UI using an UploadBox component.
+- Used FormData to send selected files from React to FastAPI.
+- Added a FastAPI /upload endpoint stub.
+- Installed python-multipart for file upload support.
+- Added backend requirements.txt for deployment preparation.
+- Tested frontend and backend locally.
+- Prepared the frontend for Vercel deployment and backend for Railway deployment.
 
