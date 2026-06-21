@@ -83,3 +83,7 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 - Participated in LeetCode weekly contest(solved 2/4 problems and faced TLE in 4th problem!)
 - Upsolved contest problems and wrote errors from past problems.
 
+## Day 12- Completed
+- Participated in Leetcode weekly and biweekly contest(solved 2/4 problems in both of them)
+- Upsolved contest problems and wrote errors from past problems practiced throught the week.
+
