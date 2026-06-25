@@ -87,3 +87,7 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 - Participated in Leetcode weekly and biweekly contest(solved 2/4 problems in both of them)
 - Upsolved contest problems and wrote errors from past problems practiced throught the week.
 
+## Day 13- Completed
+- Solved 5 leetcode math problems
+- Completed Vectors and Geometry of Space, Vector functions- 2 Chapters from Calculus by Stewart James
+
