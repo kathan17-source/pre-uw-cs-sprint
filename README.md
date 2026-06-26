@@ -91,3 +91,5 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 - Solved 5 leetcode math problems
 - Completed Vectors and Geometry of Space, Vector functions- 2 Chapters from Calculus by Stewart James
 
+## Day 14 - Completed
+- Completed Partial Derivatives- Chapter from Calculus by Stewart James
