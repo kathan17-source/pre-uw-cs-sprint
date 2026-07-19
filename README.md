@@ -93,3 +93,10 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 
 ## Day 14 - Completed
 - Completed Partial Derivatives- Chapter from Calculus by Stewart James
+
+## Day 15 to 30 - Completed
+- Completed Multiple Integrals and Vector Calculus- 2 Chapters from Calculus by Stewart James
+- Completed Random Variables from "A first course in probability" by Sheldon Ross
+- Completed Linear Equations and Matrices, Solving Linear Systems, Determinants and Real Vector Spaces from "Elementary Linear Algebra with Applications" by Bernard Kolman and David R. Hill
+- Making Tennis analysis app and website(polishing and testing left)
+- Participated in 1 leetcode contest( solved 3/4 problems!)
