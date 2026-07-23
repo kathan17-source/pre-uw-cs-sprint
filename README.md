@@ -100,3 +100,6 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 - Completed Linear Equations and Matrices, Solving Linear Systems, Determinants and Real Vector Spaces from "Elementary Linear Algebra with Applications" by Bernard Kolman and David R. Hill
 - Making Tennis analysis app and website(polishing and testing left)
 - Participated in 1 leetcode contest( solved 3/4 problems!)
+
+## Day 16 - Completed
+- Completed 10 LeetCode problems
