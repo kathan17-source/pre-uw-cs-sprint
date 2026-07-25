@@ -101,5 +101,8 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 - Making Tennis analysis app and website(polishing and testing left)
 - Participated in 1 leetcode contest( solved 3/4 problems!)
 
-## Day 16 - Completed
+## Day 31 - Completed
 - Completed 10 LeetCode problems
+## Day 32 - Completed
+- Completed 12 LeetCode problems
+- Worked on polishing Tennis analysis app
