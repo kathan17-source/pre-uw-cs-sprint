@@ -106,3 +106,6 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 ## Day 32 - Completed
 - Completed 12 LeetCode problems
 - Worked on polishing Tennis analysis app
+## Day 33 - Completed
+- Completed 11 LeetCode problems
+- Started studying Continuous Random Variables from "A first course in probability" by Sheldon Ross
