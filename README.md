@@ -113,4 +113,6 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 - Participated in 1 leetcode contest( solved 3/4 problems!)
 - Participated in my first codeforces contest( solved 3/6 problems and TLE on one other)
 - Continued studying Continuous Random Variables from "A first course in probability" by Sheldon Ross
-
+## Day 35 - Completed
+- Completed 6 LeetCode problems
+- Learned Linked List from strivers-a2z-sheet-learn-dsa-a-to-z
