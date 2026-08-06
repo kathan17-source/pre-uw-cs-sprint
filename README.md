@@ -123,4 +123,9 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 ## Day 37 - Completed
 - Solved 10 leetcode geometry problems
 - Learned concepts of stack and queues from strivers-a2z-sheet-learn-dsa-a-to-z
+## Day 38 to 40 - Completed
+- Learned concepts of heaps from strivers-a2z-sheet-learn-dsa-a-to-z
+- Participated in codeforces contest( solved 5/8 problems)
+- Revised Calculus by Stewart James and practiced questions
+
 
