@@ -127,5 +127,7 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 - Learned concepts of heaps from strivers-a2z-sheet-learn-dsa-a-to-z
 - Participated in codeforces contest( solved 5/8 problems)
 - Revised Calculus by Stewart James and practiced questions
-
+## Day 41 - Coompleted
+- Participated in codeforces contest( solved 4/6 problems)
+- Solved 30 brain teasers
 
