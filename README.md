@@ -130,4 +130,7 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 ## Day 41 - Completed
 - Participated in codeforces contest( solved 4/6 problems)
 - Solved 30 brain teasers
-
+## Day 42 to 44 - Completed
+- Trained model for tennis app
+- Participated in codeforces contest( solved 5/6 problems)
+- Participated in leetcode contest( solved 4/4 problems!)
