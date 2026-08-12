@@ -134,3 +134,5 @@ CS foundations sprint: terminal, GitHub, LeetCode, and systems prep before unive
 - Trained model for tennis app
 - Participated in codeforces contest( solved 5/6 problems)
 - Participated in leetcode contest( solved 4/4 problems!)
+## Day 45 - Completed
+- Finished building Tennis app
